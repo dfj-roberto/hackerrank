@@ -12,6 +12,7 @@ public class SolutionRansomNote {
     Map<Integer, String> noteMap;
     
     public SolutionRansomNote(String magazine, String note) {
+    	//This is my third commit
    		magazineIndex = new HashMap<String, Queue<Integer>>();
         magazineMap = new HashMap<Integer, String>();
 		noteMap = new HashMap<Integer, String>();
